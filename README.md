@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @titanmarek
 - 👀 I’m interested in games and programming
 - 🌱 I’m currently learning how to programm in GODOT
-- 📫 How to reach me kosikm@gchd.cz
+- 📫 How to reach me mrkkosik@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Minecraft
 
