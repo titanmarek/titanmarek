@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to programm in GODOT
 - 📫 How to reach me kosikm@gchd.cz
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love Minecraft
+- ⚡ Fun fact: I love Minecraft
 
 <!---
 titanmarek/titanmarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
